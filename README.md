@@ -29,6 +29,7 @@ The code above will return a class of WorldAirports::Airport, on which instance 
     icao
     city
     country
+    country_code
     
 ICAO is not guaranteed to be available for all the data, but other fields are.
 
